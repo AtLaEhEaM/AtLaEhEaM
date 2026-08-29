@@ -9,7 +9,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=AtLaEhEaM&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AtLaEhEaM&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-# ALL DEVELOPMENT STACKS LEAD TO ENTROPY
+# ALL DEVELOPMENT STACKS LEAD TO SPAGHETTI CODE
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AtLaEhEaM&icon=9&color=9)](https://visitcount.itsvg.in)
